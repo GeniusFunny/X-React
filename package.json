@@ -1,7 +1,7 @@
 {
-  "name": "tpreact",
+  "name": "xreact",
   "version": "1.0.0",
-  "description": "阅读完Preact源码，突发奇想，使用TypeScript重写～～～",
+  "description": "X-React",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,9 +16,5 @@
     "url": "https://github.com/GeniusFunny/TPreact/issues"
   },
   "homepage": "https://github.com/GeniusFunny/TPreact#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-typescript": "^5.0.0-alpha.3",
-    "typescript": "^3.1.6"
-  }
+  "devDependencies": {}
 }

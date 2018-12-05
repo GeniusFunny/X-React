@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "target": "es6",
-    "noImplicitAny": true
-  },
-  "include": [
-    "src/**/*"
-  ]
-}
